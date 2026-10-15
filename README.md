@@ -5,3 +5,4 @@ Journal to Infinity
 - Connect with github account
 - Create repo in github
 - Clone to local directory
+- Commit and Sync to github
